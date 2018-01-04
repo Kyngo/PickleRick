@@ -14,7 +14,9 @@ No. Podéis ver el código fuente y comprobarlo vosotr@s mism@s.
 
 ### ¿Puedo usar este código?
 Claro. Bajo la licencia GPL v3.
+
 ---
+
 ## Instalación
 Este bot requiere una serie de paquetes:
 * opus-core
@@ -35,10 +37,13 @@ Debe tener una estructura como la siguiente:
 }
 ```
 
+
 Donde pone "creator_id" debe ir tu ID de Telegram. De esta forma, el bot te podrá hablar.
 ¿No sabes tu número de ID de Telegram? Pregúntale a KyngoBot (/info)
 https://t.me/kyngobot
+
 ---
+
 ## Crédito:
 El bot fue creado originalmente por Mutex. Yo he cogido su trabajo y lo he modificado bajo la licencia GPL v3.
 https://github.com/39bit/Markov_Bot
