@@ -24,7 +24,9 @@ Este bot requiere una serie de paquetes:
 También debe poder escribir y leer allí donde lo pongas.
 
 ## Fichero config.json
+
 Debe tener una estructura como la siguiente:
+
 ```
 {
 	"token": "TOKEN_DE_TELEGRAM",
