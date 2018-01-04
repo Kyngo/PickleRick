@@ -32,6 +32,7 @@ Debe tener una estructura como la siguiente:
 	"creator_id": 123456789
 }
 ```
+
 Donde pone "creator_id" debe ir tu ID de Telegram. De esta forma, el bot te podrá hablar.
 ¿No sabes tu número de ID de Telegram? Pregúntale a KyngoBot (/info)
 https://t.me/kyngobot
