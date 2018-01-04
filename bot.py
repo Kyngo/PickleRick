@@ -384,9 +384,9 @@ try:
                     bot.sendMessage(chat_id=chat_id,
                                     text="Por cierto, no sé si te has dado cuenta, pero soy un pepinillo. ¡Soy Rickinillo!\n\n... mejor en inglés.\n\nI'M PICKLE RIIIIIIICK!")
                 if cmd == "/help":
-                    HELPSTRING = "NOTE: If you don't speak spanish, there are other bots you can use.\n\n" +
-                    "Si escribes el símbolo / podrás ver los comandos de todos los bots, incluyéndome a mi.\n\n" +
-                    "Si quieres ver mi código fuente, ve a https://github.com/Kyngo/PickleRick."
+                    HELPSTRING = "NOTE: If you don't speak spanish, there are other bots you can use.\n\n"
+                    HELPSTRING.append("Si escribes el símbolo / podrás ver los comandos de todos los bots, incluyéndome a mi.\n\n")
+                    HELPSTRING.append("Si quieres ver mi código fuente, ve a https://github.com/Kyngo/PickleRick.")
                     bot.sendMessage(chat_id=chat_id,
                                     text=HELPSTRING,
                                     reply_to_message_id=replyto)
