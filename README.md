@@ -10,7 +10,7 @@ El bot almacena los mensajes que lee en los chats e intenta predecir cómo poder
 Creará frases más (poco) inteligentes y variadas a medida que hables por un grupo con el bot.
 
 ### Pero... ¿Puedes ver los mensajes?
-No. Podéis ver el código fuente y comprobarlo vosotr@s mism@s.
+No. Podéis ver el código fuente y comprobarlo vosotr@s mism@s. El bot los guarda en un fichero binario.
 
 ### ¿Puedo usar este código?
 Claro. Bajo la licencia GPL v3.
