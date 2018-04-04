@@ -1,5 +1,5 @@
 # Pickle Rick
-## Bot de Telegram (no muy) inteligente - Basado en el bot creado por Mutex
+## Bot de Telegram (no muy) inteligente - Basado en el bot creado por Mutex (@Markov_bot)
 ---
 ## FAQ
 ### ¿Qué hace este bot?
