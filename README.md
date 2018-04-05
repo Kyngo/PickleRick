@@ -9,6 +9,9 @@ Hablar. Mucho, si se desea.
 El bot almacena los mensajes que lee en los chats e intenta predecir cómo poder hablar, usando el algoritmo de cadenas de Markov.
 Creará frases más (poco) inteligentes y variadas a medida que hables por un grupo con el bot.
 
+### ¿Cómo lo puedo probar?
+Habla con https://t.me/pickle_rick_bot para probarlo.
+
 ### Pero... ¿Puedes ver los mensajes?
 No. Podéis ver el código fuente y comprobarlo vosotr@s mism@s. El bot los guarda en un fichero binario.
 
