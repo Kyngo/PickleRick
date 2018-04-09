@@ -3,7 +3,7 @@
 ---
 ## FAQ
 ### ¿Qué hace este bot?
-Hablar. Mucho, si se desea.
+Hablar. Mucho, si se desea. 
 
 ### ¿Cómo funciona?
 El bot almacena los mensajes que lee en los chats e intenta predecir cómo poder hablar, usando el algoritmo de cadenas de Markov.
