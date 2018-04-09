@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# Pickle Rick Bot
+# Pickle Rick
 # Basado en el trabajo de @mutex (telegram)
 # -----------------------------------------
 # Este bot almacena los mensajes de un grupo de forma que éste
